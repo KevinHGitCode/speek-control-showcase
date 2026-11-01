@@ -57,7 +57,7 @@ Speek convierte una grabación en métricas comparables y te hace practicar cont
   seguros; con respaldo de copiado donde no hay portapapeles seguro.
 
 ## Números del repositorio
-~4.200 líneas de Python · ~6.300 de TypeScript · 136 pruebas · 6 commits (16 sept–11 oct de 2026).
+136 pruebas automatizadas (API, formatos de audio, métricas, retos). Desarrollado del 16 de septiembre al 11 de octubre de 2026.
 
 Rendimiento medido a mano en un portátil de 8 núcleos sin GPU, modelo `small`: un audio de 7 min 31 s
 con ruido se transcribe en 100–115 s (~4× más rápido que el tiempo real).
