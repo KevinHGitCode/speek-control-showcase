@@ -5,6 +5,12 @@
 
 `Python` · `FastAPI` · `faster-whisper` · `Praat` · `React 19` · `TypeScript` · `uPlot` · `SQLite`
 
+> **Problem:** People who want to speak better judge themselves by ear, and apps that measure voice upload recordings to the cloud.  
+> **Solution:** Speek turns a recording into comparable metrics (pitch, pace, pauses, filler words) and trains you against them, 100% locally.  
+> **Stack:** Python, FastAPI, faster-whisper, Praat, React 19, TypeScript, SQLite.  
+> **Live demo:** None (runs locally; a walkthrough is available on request).  
+> **My role:** Solo project, end to end: audio analysis, API, UI and tests, working with an AI assistant under written conventions.
+
 ![Informe de una grabación](screenshots/informe.png)
 
 *Capturas tomadas con una grabación de voz sintética: no hay voces ni datos reales.*
